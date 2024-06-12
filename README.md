@@ -18,7 +18,7 @@ npm install eslint-plugin-vzvod-plugin --save-dev
 
 ## Usage
 
-Add `vzvodnov-plugin` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `vzvod-plugin` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
