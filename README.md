@@ -1,6 +1,6 @@
 # eslint-plugin-vzvod-plugin
 
-plugin for project
+plugin for project updated README
 
 ## Installation
 
